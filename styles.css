@@ -1,0 +1,57 @@
+body {
+  margin: 0;
+}
+
+h1 {
+  margin: 0;
+  padding: 40px;
+}
+.container {
+    height: 100vh;
+    width: 100vw;
+    background-image: url("http://static.travel.usnews.com/images/articles/704/intro.jpg");
+    background-size: cover;
+}
+
+.headtext {
+  height: 20vh;
+  width: 100vw;
+  text-align: center;
+}
+
+.linkbox {
+  height: 80vh;
+  width: 100vw;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  align-items: center;
+  align-content: space-between;
+  justify-content: center;
+}
+
+.box {
+  margin: 20px;
+}
+
+img {
+  height: 200px;
+  width: 200px;
+
+}
+
+.scam {
+  position: fixed;
+  top: 30px;
+  right: 30px;
+}
+
+.menu {
+  position: fixed;
+  top: 30px;
+  left: 30px;
+}
+a {
+  display: block;
+  text-decoration: none;
+}
