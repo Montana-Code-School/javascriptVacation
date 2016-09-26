@@ -9,7 +9,7 @@ h1 {
 .container {
     height: 100vh;
     width: 100vw;
-    background-image: url("http://static.travel.usnews.com/images/articles/704/intro.jpg");
+    background-image: url("images/intro.jpg");
     background-size: cover;
 }
 
